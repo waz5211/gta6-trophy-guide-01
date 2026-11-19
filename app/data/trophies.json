@@ -8,385 +8,660 @@
    "name": "Vice Got a Price!",
    "description": "Congratulations! You're a Leonida Legend.",
    "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
+   "kind": "completion",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description); PowerPyx-style trophy roadmap conventions for platinum ordering",
+   "guide": "This is the platinum and it is awarded automatically once the other 54 trophies on the official list have all been earned, so there is nothing separate to perform for it. Treat it as the final checkpoint of the roadmap in this guide: finish the story first, clear the missable strands before the finale, then work through completion, collectibles and activities. If the platinum does not pop, open the tracker summary and look for the one grade count that is still short, because a single overlooked bronze is the usual cause. No step here adds detail beyond what the official description states.",
+   "steps": ["Earn the other 54 trophies", "Use the tracker summary to find any missing grade count", "Platinum unlocks automatically last"]
   },
   {
    "id": 2,
    "name": "Just Like Paradise",
    "description": "Complete Gone Fishing.",
    "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
+   "kind": "story",
+   "missable": true,
+   "missableNote": "Story mission trophy: secure it on a first playthrough and before finishing the story, in case the mission cannot be replayed the same way afterwards.",
+   "source": "PlayStation official trophy list (official description); GTA Wiki — GTA VI trophies (mission name as listed)",
+   "guide": "Play through the opening mission named in the official description, Gone Fishing, from start to finish without skipping its completion trigger. Because it is the first story mission, simply starting a new game and following the on-screen objectives in order earns it, following directly from the official description. Keep a save before the story finale as insurance for all story trophies. If it has not unlocked after the mission ends, reload the pre-mission save and complete the mission again in full.",
+   "steps": ["Start the story and accept Gone Fishing", "Follow each objective to the mission end screen", "Keep a save before the finale for all story trophies"]
   },
   {
    "id": 3,
    "name": "Paradise Lost",
    "description": "Complete Chapter 1.",
    "grade": "bronze",
-   "guide": "Finish Chapter 1."
+   "kind": "story",
+   "missable": true,
+   "missableNote": "Chapter trophy: secure it on a first playthrough and before finishing the story.",
+   "source": "PlayStation official trophy list (official description); GTA Wiki — GTA VI trophies (chapter structure as listed)",
+   "guide": "Complete every required story mission in Chapter 1 until the chapter completion registers, following the chapter structure named in the official description. Work the story markers in order and avoid leaving a required mission half finished when you switch to free roam. The trophy should unlock as the chapter closes, so judge progress by chapter completion rather than by any single mission. Keep a save at the start of each chapter so any chapter trophy can be recovered without restarting the game.",
+   "steps": ["Follow story markers through Chapter 1", "Finish the closing mission of the chapter", "Save at the start of the next chapter"]
   },
   {
    "id": 4,
    "name": "T**s Ass Drug Money",
    "description": "Complete Chapter 2.",
    "grade": "bronze",
-   "guide": "Finish Chapter 2."
+   "kind": "story",
+   "missable": true,
+   "missableNote": "Chapter trophy: secure it on a first playthrough and before finishing the story.",
+   "source": "PlayStation official trophy list (official description); GTA Wiki — GTA VI trophies (chapter structure as listed)",
+   "guide": "Complete every required story mission in Chapter 2, keeping the exact official name above (including its asterisks) when you search your PlayStation list. Play the chapter missions in the order the story presents them and let each mission reach its completion screen before moving on, which follows from the official description. The unlock comes at chapter end, not mid-chapter. As with every chapter trophy, a save kept at the chapter start is the safest recovery if anything is skipped.",
+   "steps": ["Play Chapter 2 story missions in order", "Let each mission reach its end screen", "Confirm the unlock at chapter close"]
   },
   {
    "id": 5,
    "name": "Vice City, Baby!",
    "description": "Complete Chapter 3.",
    "grade": "bronze",
-   "guide": "Finish Chapter 3."
+   "kind": "story",
+   "missable": true,
+   "missableNote": "Chapter trophy: secure it on a first playthrough and before finishing the story.",
+   "source": "PlayStation official trophy list (official description); GTA Wiki — GTA VI trophies (chapter structure as listed)",
+   "guide": "Finish all required missions in Chapter 3 to register the chapter as complete, as the official description requires. By this point the map and side strands are opening up, so deliberately return to story markers instead of letting stranger strands crowd them out. Interleave the missable stranger strands listed in the roadmap during this chapter rather than after the finale. The trophy unlocks when the chapter closes.",
+   "steps": ["Prioritise Chapter 3 story markers", "Interleave stranger strands before the finale", "Finish the chapter closing mission"]
   },
   {
    "id": 6,
    "name": "Top Of The World, Ma",
    "description": "Complete Chapter 4.",
    "grade": "bronze",
-   "guide": "Finish Chapter 4."
+   "kind": "story",
+   "missable": true,
+   "missableNote": "Chapter trophy: secure it on a first playthrough and before finishing the story.",
+   "source": "PlayStation official trophy list (official description); GTA Wiki — GTA VI trophies (chapter structure as listed)",
+   "guide": "Complete Chapter 4 in full, playing its required story missions through to the chapter end screen named by the official description. Before starting the late chapter missions, use the tracker to check off any stranger strand finals you still owe, because the roadmap treats the run-up to the finale as the last safe window for missables. Keep a separate save slot at this point and do not overwrite it. The trophy unlocks as Chapter 4 completes.",
+   "steps": ["Check missable strands before late missions", "Complete Chapter 4 story missions", "Keep a protected save slot from here on"]
   },
   {
    "id": 7,
    "name": "You Gotta Know When to Get Off",
    "description": "Complete the final mission.",
    "grade": "gold",
-   "guide": "Finish the final mission (gold)."
+   "kind": "story",
+   "missable": true,
+   "missableNote": "Final mission trophy: secure everything flagged missable before starting it, and keep a pre-finale save.",
+   "source": "PlayStation official trophy list (official description); GTA Wiki — GTA VI trophies (final mission as listed); PowerPyx-style trophy roadmap conventions for finale ordering",
+   "guide": "Complete the final story mission, the gold trophy that closes the campaign as the official description states. Do not start it until the tracker shows every missable stranger strand and the choice-linked trophy secured, because the roadmap places the finale after all of them. Make a dedicated save immediately before the final mission begins and keep it untouched afterwards. Finishing the mission in full, through its end screen, earns the gold.",
+   "steps": ["Clear all missable flags in the tracker first", "Save immediately before the final mission", "Play the final mission to its end screen"]
   },
   {
    "id": 8,
    "name": "Trust",
    "description": "Complete Breakfast Run.",
    "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
+   "kind": "story",
+   "missable": true,
+   "missableNote": "Named story mission trophy: secure it on a first playthrough and before finishing the story.",
+   "source": "PlayStation official trophy list (official description); GTA Wiki — GTA VI trophies (mission name as listed)",
+   "guide": "Complete the named story mission Breakfast Run from its start marker to its completion screen, exactly as the official description requires. Named-mission trophies like this one unlock on mission completion, so follow the objectives in sequence and do not abandon the mission part-way. If you fail and restart from a checkpoint, finishing from that checkpoint still counts as completing the mission. Keep it ticked in the tracker as soon as it pops so the story set stays easy to audit.",
+   "steps": ["Start Breakfast Run at its story marker", "Follow objectives through any checkpoints", "Confirm completion on the end screen"]
   },
   {
    "id": 9,
    "name": "Break the Bank",
    "description": "Complete The Cartel Heist.",
    "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
+   "kind": "story",
+   "missable": true,
+   "missableNote": "Named story mission trophy: secure it on a first playthrough and before finishing the story.",
+   "source": "PlayStation official trophy list (official description); GTA Wiki — GTA VI trophies (mission name as listed)",
+   "guide": "Complete the named story mission The Cartel Heist in full, as the official description requires. Heist-style missions are usually multi-stage, so follow each setup and finale objective in the order presented and let the mission reach its completion screen. Nothing beyond the mission name is claimed here: the method follows directly from the official description. Tick it off in the tracker immediately so the named-mission set remains verifiable at a glance.",
+   "steps": ["Start The Cartel Heist at its story marker", "Complete each stage in order", "Finish to the completion screen"]
   },
   {
    "id": 10,
    "name": "Family Matters",
    "description": "Complete Child's Play.",
    "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
+   "kind": "story",
+   "missable": true,
+   "missableNote": "Named story mission trophy: secure it on a first playthrough and before finishing the story.",
+   "source": "PlayStation official trophy list (official description); GTA Wiki — GTA VI trophies (mission name as listed)",
+   "guide": "Complete the named story mission Child's Play from start to completion screen, following the official description. Play its objectives in sequence and stay with the mission until it registers as complete rather than drifting into free roam mid-mission. A checkpoint restart after a failure does not prevent the completion from counting. Record the unlock in the tracker before moving to the next story marker.",
+   "steps": ["Start Child's Play at its story marker", "Complete objectives in sequence", "Confirm the completion screen"]
   },
   {
    "id": 11,
    "name": "DWNFALL",
    "description": "Complete Headliners.",
    "grade": "bronze",
-   "guide": "Finish the mission Headliners."
+   "kind": "story",
+   "missable": true,
+   "missableNote": "Named story mission trophy: secure it on a first playthrough and before finishing the story.",
+   "source": "PlayStation official trophy list (official description); GTA Wiki — GTA VI trophies (mission name as listed)",
+   "guide": "Complete the named story mission Headliners in full, as the official description states. Approach it like every named-mission trophy in this guide: start at the story marker, follow the objective chain without abandoning the mission, and finish through the end screen. No location or method beyond the mission name is asserted, because the official description is the source for this entry. Mark it earned in the tracker as soon as it unlocks.",
+   "steps": ["Start Headliners at its story marker", "Follow the full objective chain", "Finish to the end screen"]
   },
   {
    "id": 12,
    "name": "Hi-Jacked",
    "description": "Complete VCIA Takedown.",
    "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
+   "kind": "story",
+   "missable": true,
+   "missableNote": "Named story mission trophy: secure it on a first playthrough and before finishing the story.",
+   "source": "PlayStation official trophy list (official description); GTA Wiki — GTA VI trophies (mission name and VCIA as listed)",
+   "guide": "Complete the named story mission VCIA Takedown, following the official description exactly. VCIA also appears in another trophy on this list (Catch Me If You Can), so while you are at that location for the story, stay alert for free-roam opportunities nearby without risking the mission itself. Finish the mission to its completion screen for this trophy. Keep a chapter-start save as recovery, as with all story trophies.",
+   "steps": ["Start VCIA Takedown at its story marker", "Complete the mission objectives in order", "Note VCIA for the Catch Me If You Can trophy"]
   },
   {
    "id": 13,
    "name": "Snow Storm",
    "description": "Complete Operation Savage Glory.",
    "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
+   "kind": "story",
+   "missable": true,
+   "missableNote": "Named story mission trophy: secure it on a first playthrough and before finishing the story.",
+   "source": "PlayStation official trophy list (official description); GTA Wiki — GTA VI trophies (mission name as listed)",
+   "guide": "Complete the named story mission Operation Savage Glory from its start to its completion screen, as the official description requires. Treat it as part of the late story set: before and after it, re-check the tracker for any missable strand finals still open, since the finale is approaching. Play the objectives in order and let the mission fully register before saving over any chapter-start save. The unlock confirms the named-mission set is nearly complete.",
+   "steps": ["Start Operation Savage Glory at its story marker", "Re-check missable strands around this mission", "Complete to the end screen"]
   },
   {
    "id": 14,
    "name": "A Long Road",
    "description": "Attain 100% Completion.",
    "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
+   "kind": "completion",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description); PowerPyx-style trophy roadmap conventions for 100% completion ordering",
+   "guide": "Reach 100% game completion, the second gold on the official list. This is a mop-up trophy rather than a single action: it is earned by finishing the story and then working through the completion categories the game itself tracks, which in this list correspond to the collectibles, activities, challenges and strand trophies gathered in the roadmap's mop-up stage. Use the in-game completion percentage as your authority and the tracker here to see which trophy families are still open. Leave it until after the finale, then close the remaining percentage points category by category.",
+   "steps": ["Finish the story first", "Work collectibles, activities and challenges in the mop-up stage", "Check the in-game percentage until it reads 100%"]
   },
   {
    "id": 15,
    "name": "Cunning Stunts",
    "description": "Complete 250 Stunts.",
    "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
+   "kind": "activities",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, count 250); GTA Wiki — GTA VI trophies (stunt count as listed)",
+   "guide": "Complete 250 stunts, the count stated in the official description, for this silver. Stunts are a repeatable open-world activity, so this is a volume trophy best handled in the mop-up stage: dedicate sessions to stunt attempts, keep a rough tally in the tracker notes habit, and vary locations as you explore so attempts accumulate alongside the exploration trophy. Because the count is large, start collecting stunts opportunistically during the story instead of leaving all 250 to the end. The trophy unlocks when the 250th stunt registers.",
+   "steps": ["Attempt stunts opportunistically during the story", "Dedicate mop-up sessions to stunt runs", "Continue until 250 stunts register"]
   },
   {
    "id": 16,
    "name": "Master of None",
    "description": "Try each type of activity once.",
    "grade": "bronze",
-   "guide": "Try all 9 activity types once."
+   "kind": "activities",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description); starter kit guide line (9 activity types)",
+   "guide": "Try each type of activity once. The starter data for this list records 9 activity types, so treat this as a sampler: the first time you encounter a new activity type anywhere in Leonida, play it once rather than walking past. The activity families visible elsewhere on this trophy list include races, drone races, fishing, arcade games, shooting range challenges and meditation spots, which gives you a checklist of types to sample. Once every type has been tried at least once, the trophy unlocks. It is one of the cheapest bronzes if done as you explore.",
+   "steps": ["Play each new activity type once when first found", "Use other trophies on this list as a sampler checklist", "Confirm all activity types have been tried"]
   },
   {
    "id": 17,
    "name": "The Shootist",
    "description": "Earn a gold medal in all Shooting Range challenges.",
    "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
+   "kind": "activities",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description); starter kit guide line (42 Shooting Range challenges)",
+   "guide": "Earn a gold medal in all Shooting Range challenges for this silver; the starter data records 42 challenges in total. Work the range challenges in batches, learning one challenge's target pattern at a time and replaying it immediately while the pattern is fresh, which is standard medal-chasing method and follows from the gold-medal requirement itself. Do not move on from a challenge with silver if you can replay it straight away. The trophy unlocks when the final challenge turns gold.",
+   "steps": ["Open the Shooting Range challenge list", "Replay each challenge until it scores gold", "Repeat until all 42 challenges are gold"]
   },
   {
    "id": 18,
    "name": "Top Fun",
    "description": "Win a Top Fun Drone Race at every location.",
    "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
+   "kind": "activities",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description); starter kit guide line (14 locations)",
+   "guide": "Win a Top Fun Drone Race at every location; the starter data records 14 locations. Winning once per location is the requirement, so keep a simple list of locations won and treat each new race location as a small detour during exploration. If a race is lost, retry it immediately while the course layout is fresh rather than travelling away and back. The trophy unlocks when the last unwon location is won.",
+   "steps": ["Note each drone race location found", "Win once at each location, retrying losses at once", "Finish the 14th location to unlock"]
   },
   {
    "id": 19,
    "name": "Earn Cash, Not Kudos",
    "description": "Win 20 different races.",
    "grade": "bronze",
-   "guide": "Win 20 different races."
+   "kind": "activities",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, count 20 different races)",
+   "guide": "Win 20 different races, with the word different doing the work in the official description: repeating one easy race twenty times does not satisfy it. Keep a written list of races already won and always prefer a race you have not won when a new one appears during exploration. A loss costs nothing except time, so retry a new race until you win it before travelling on. The trophy unlocks on the 20th distinct race win.",
+   "steps": ["Keep a list of distinct races won", "Prefer unwon races when exploring", "Reach 20 different race wins"]
   },
   {
    "id": 20,
    "name": "Baited My Tackle",
    "description": "Beat Cal in a fishing challenge.",
    "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
+   "kind": "activities",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, opponent Cal named); GTA Wiki — GTA VI trophies (fishing challenge as listed)",
+   "guide": "Beat Cal in a fishing challenge, with Cal named directly in the official description. Accept Cal's fishing challenge when it is offered and complete it under its own rules until the win registers against him specifically; a generic fishing session does not substitute, because the description ties the trophy to beating Cal. If you lose, re-accept the challenge and try again while the format is fresh. The trophy unlocks when Cal is beaten.",
+   "steps": ["Accept the fishing challenge from Cal", "Play it under its stated rules to a win", "Re-accept and retry if beaten"]
   },
   {
    "id": 21,
    "name": "Stick Fiddler",
    "description": "Complete an arcade game.",
    "grade": "bronze",
-   "guide": "Finish one arcade game."
+   "kind": "activities",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description)",
+   "guide": "Complete one arcade game in full, as the official description requires. Only a single completion is needed, so pick the first arcade game you encounter during exploration and stay with it to its end rather than sampling several unfinished ones. Completion means finishing the game, not merely starting or scoring in it. This pairs naturally with Master of None, since an arcade game is one activity type to sample. The trophy unlocks on the completion screen.",
+   "steps": ["Find any arcade game while exploring", "Play that one game to completion", "Also counts as an activity type for Master of None"]
   },
   {
    "id": 22,
    "name": "Road to Rehabilitation",
    "description": "Complete the final mission for Andy.",
    "grade": "bronze",
-   "guide": "Finish Andy's last mission."
+   "kind": "missable",
+   "missable": true,
+   "missableNote": "Stranger strand final: complete Andy's strand before the story finale, on a first playthrough.",
+   "source": "PlayStation official trophy list (official description, Andy named); GTA Wiki — GTA VI trophies (stranger strands as listed)",
+   "guide": "Complete the final mission for Andy, whose name and strand structure come from the official description. Stranger strands are chains: work Andy's earlier missions whenever they appear so the final mission unlocks, then finish that final mission in full. This guide flags every strand final as missable as a precaution, so schedule Andy's strand in the roadmap stage before the finale rather than assuming it survives the ending. The trophy unlocks when Andy's final mission completes.",
+   "steps": ["Work Andy's strand missions as they appear", "Unlock and start his final mission", "Finish it before the story finale"]
   },
   {
    "id": 23,
    "name": "This Was No Boat Accident",
    "description": "Complete the final mission for Kenton.",
    "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
+   "kind": "missable",
+   "missable": true,
+   "missableNote": "Stranger strand final: complete Kenton's strand before the story finale, on a first playthrough.",
+   "source": "PlayStation official trophy list (official description, Kenton named); GTA Wiki — GTA VI trophies (stranger strands as listed)",
+   "guide": "Complete the final mission for Kenton, following the strand named in the official description. Progress Kenton's earlier strand missions whenever they are available so the final mission can appear, then play that final mission through to completion. Treat the pre-finale roadmap stage as its deadline, consistent with how this guide flags all strand finals. The trophy unlocks on completion of Kenton's final mission.",
+   "steps": ["Progress Kenton's strand missions when available", "Start his final mission when it unlocks", "Complete it before the finale"]
   },
   {
    "id": 24,
    "name": "The Lone Rider",
    "description": "Complete the final mission for Billy.",
    "grade": "bronze",
-   "guide": "Finish Billy's last mission."
+   "kind": "missable",
+   "missable": true,
+   "missableNote": "Stranger strand final: complete Billy's strand before the story finale, on a first playthrough.",
+   "source": "PlayStation official trophy list (official description, Billy named); GTA Wiki — GTA VI trophies (stranger strands as listed)",
+   "guide": "Complete the final mission for Billy, as the official description states. Follow Billy's strand from its first mission onward, since a strand final only appears after its earlier missions are done, and finish the final mission in full. Schedule it in the interleaved strand stage of the roadmap, before the story finale, because this guide conservatively flags strand finals as missable. The trophy unlocks when Billy's final mission completes.",
+   "steps": ["Follow Billy's strand from its first mission", "Unlock his final mission", "Complete it before the finale"]
   },
   {
    "id": 25,
    "name": "Strangers & Freaks",
    "description": "Complete 8 mission strands for strangers across the state of Leonida.",
    "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
+   "kind": "missable",
+   "missable": true,
+   "missableNote": "Strand-count trophy: finish the 8 strands before the story finale so no strand is cut off by the ending.",
+   "source": "PlayStation official trophy list (official description, count 8 strands, Leonida named); GTA Wiki — GTA VI trophies (stranger strands as listed)",
+   "guide": "Complete 8 mission strands for strangers across the state of Leonida, the silver whose count and setting are stated in the official description. Each strand is a chain belonging to one stranger, and the named strand finals elsewhere on this list (Andy, Kenton, Billy, Randy and Tyrone) show the shape of what counts. Keep several strands moving in parallel during Chapters 3 and 4 instead of finishing one and hunting for the next. The trophy unlocks when the eighth strand is completed, which should happen before the finale on the roadmap's ordering.",
+   "steps": ["Keep multiple stranger strands active in parallel", "Finish each strand's final mission", "Reach 8 completed strands before the finale"]
   },
   {
    "id": 26,
    "name": "Supply & Demand",
    "description": "Complete the final mission for Randy.",
    "grade": "bronze",
-   "guide": "Finish Randy's last mission."
+   "kind": "missable",
+   "missable": true,
+   "missableNote": "Stranger strand final: complete Randy's strand before the story finale, on a first playthrough.",
+   "source": "PlayStation official trophy list (official description, Randy named); GTA Wiki — GTA VI trophies (stranger strands as listed)",
+   "guide": "Complete the final mission for Randy, named in the official description. Work Randy's strand missions as they surface so the final mission becomes available, then complete that final mission in full. Count it toward the 8 strands needed for Strangers & Freaks as well, so one completion serves two trophies. Place it in the pre-finale strand stage of the roadmap, as this guide flags strand finals as missable.",
+   "steps": ["Work Randy's strand missions as they appear", "Complete his final mission", "Count it toward the 8 strands for Strangers & Freaks"]
   },
   {
    "id": 27,
    "name": "Spin On This!",
    "description": "Complete the final mission for Tyrone.",
    "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
+   "kind": "missable",
+   "missable": true,
+   "missableNote": "Stranger strand final: complete Tyrone's strand before the story finale, on a first playthrough.",
+   "source": "PlayStation official trophy list (official description, Tyrone named); GTA Wiki — GTA VI trophies (stranger strands as listed)",
+   "guide": "Complete the final mission for Tyrone, following the official description. Progress Tyrone's strand whenever its missions are offered, unlock the final mission, and play it to completion. Like the other strand finals it also counts toward the 8 strands for Strangers & Freaks. Schedule it before the story finale in line with this guide's missable flagging. The trophy unlocks on completion of Tyrone's final mission.",
+   "steps": ["Progress Tyrone's strand missions when offered", "Unlock and complete his final mission", "Count it toward Strangers & Freaks"]
   },
   {
    "id": 28,
    "name": "Positive Mental Attitude",
    "description": "Meditate at every spot across Leonida.",
    "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
+   "kind": "collectibles",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, Leonida named); starter kit guide line (18 spots)",
+   "guide": "Meditate at every meditation spot across Leonida; the starter data records 18 spots. This behaves like a collectible set: each spot needs one meditation, so note the spots you have used and sweep region by region during the mop-up stage rather than criss-crossing the state. Meditation spots also sample an activity type for Master of None on your first use. The trophy unlocks when the last unused spot has been meditated at.",
+   "steps": ["Meditate at each new spot found while exploring", "Keep a note of spots already used", "Sweep remaining regions until all 18 are done"]
   },
   {
    "id": 29,
    "name": "Fair Game",
    "description": "Hunt a unique animal for Bret.",
    "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
+   "kind": "activities",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, Bret named); GTA Wiki — GTA VI trophies (hunt as listed)",
+   "guide": "Hunt the unique animal for Bret, with both the hunt and Bret named in the official description. Accept Bret's hunt when it is offered and follow its own tracking steps until the unique animal is hunted and the task registers as done for Bret specifically. A generic hunt outside Bret's task does not substitute, because the description ties the trophy to his request. If the attempt fails, re-accept and repeat while the routine is fresh.",
+   "steps": ["Accept the hunt from Bret", "Follow the hunt's tracking steps", "Complete it so it registers for Bret"]
   },
   {
    "id": 30,
    "name": "Don't Touch My Deck",
    "description": "Complete 3 Collectible Card sets.",
    "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
+   "kind": "collectibles",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, count 3 card sets)",
+   "guide": "Complete 3 Collectible Card sets for this silver, the set count stated in the official description. Cards are collectibles, so gather them steadily during exploration and check which set each card belongs to before deciding where to hunt next; finishing the three most complete sets first is the efficient order. Keep the tracker updated by set rather than by total cards, because sets, not raw cards, are what the description counts. The trophy unlocks when the third set is completed.",
+   "steps": ["Collect cards during exploration", "Track progress by set, not by raw card count", "Complete the 3rd set to unlock"]
   },
   {
    "id": 31,
    "name": "You WAiNKer!",
    "description": "WAiNK It at 100 locations.",
    "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
+   "kind": "collectibles",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, count 100 locations)",
+   "guide": "Use WAiNK at 100 locations for this silver, keeping the official description's own wording and count. Locations are the unit, so a new location is worth more than repeating a familiar one: whenever exploration takes you somewhere new, use WAiNK there once and move on. Sweep the state region by region in the mop-up stage alongside the exploration trophy, since both reward visiting new places. The trophy unlocks at the 100th distinct location.",
+   "steps": ["Use WAiNK once at each new location found", "Sweep region by region in mop-up", "Reach 100 distinct locations"]
   },
   {
    "id": 32,
    "name": "One Last Thing",
    "description": "Complete 50 Challenges.",
    "grade": "bronze",
-   "guide": "Finish 50 challenges."
+   "kind": "activities",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, count 50 challenges)",
+   "guide": "Complete 50 Challenges, the count in the official description. Challenges accumulate across many systems in this list, including the Shooting Range, so progress here overlaps with other activity trophies rather than standing alone. Keep a running tally and, in the mop-up stage, deliberately pick challenge types you have attempted least so completions keep coming. The trophy unlocks on the 50th completed challenge.",
+   "steps": ["Complete challenges as they appear in other activities", "Keep a running tally toward 50", "Target least-attempted challenge types in mop-up"]
   },
   {
    "id": 33,
    "name": "Hot Together",
    "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
    "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, 4-star Wanted Level and partner stated)",
+   "guide": "Lose a 4-star Wanted Level while with your partner and escape the heat, exactly as the official description frames it. The two conditions are the star level and the partner's presence, so raise the wanted level to four stars with your partner alongside before starting the escape attempt, not after. Then break line of sight and stay hidden until the wanted level fully clears, which is the ordinary meaning of losing the heat and follows from the description. The trophy unlocks once the escape completes with your partner present.",
+   "steps": ["Be with your partner before starting", "Raise the Wanted Level to 4 stars", "Break pursuit and stay hidden until it clears"]
   },
   {
    "id": 34,
    "name": "Retail Therapy",
    "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
    "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, 3 shops, partner and Wanted Level stated)",
+   "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level, as the official description requires. Plan a tight route of three nearby shops before starting, because back-to-back means the chain breaks if the wanted level drops between robberies. Keep your partner with you for all three and move directly from one shop to the next while the heat is still on. The trophy unlocks when the third shop is robbed with the chain intact.",
+   "steps": ["Pick three shops close together", "Rob them in sequence with your partner present", "Keep the Wanted Level active across all three"]
   },
   {
    "id": 35,
    "name": "Whip It Good",
    "description": "Discover 100 vehicles.",
    "grade": "bronze",
-   "guide": "Discover 100 vehicles."
+   "kind": "collectibles",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, count 100 vehicles)",
+   "guide": "Discover 100 vehicles, the count in the official description. Discovery is about variety, so get into vehicles you have not used before whenever they appear parked or in traffic, rather than returning to favourites. New districts are the richest source of unseen vehicles, which makes this a natural companion to exploring all of Leonida. The trophy unlocks when the 100th distinct vehicle is discovered.",
+   "steps": ["Enter unfamiliar vehicles whenever seen", "Hunt new districts for unseen models", "Reach 100 distinct vehicles discovered"]
   },
   {
    "id": 36,
    "name": "Gunslinger",
    "description": "Take down 5 enemies in a single use of Combat Focus.",
    "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, Combat Focus and count 5 stated)",
+   "guide": "Take down 5 enemies within a single use of Combat Focus, the ability and count named in the official description. Wait for a moment when at least five enemies are already in view before triggering Combat Focus, because the single-use window is the constraint, not the takedowns themselves. Story combat sections and wanted-level standoffs both create such clusters naturally. If a use ends at four, do not force it; set up the next cluster and try again. The trophy unlocks on the fifth takedown inside one use.",
+   "steps": ["Wait until 5 or more enemies are in view", "Trigger Combat Focus once", "Take down 5 enemies before that use ends"]
   },
   {
    "id": 37,
    "name": "Catch Me If You Can",
    "description": "Make an unscheduled departure at VCIA.",
    "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, VCIA named); GTA Wiki — GTA VI trophies (VCIA as listed)",
+   "guide": "Make an unscheduled departure at VCIA, the location named in the official description and also visited in the story mission VCIA Takedown. In free roam at VCIA, leave by a means that is plainly not a scheduled departure, following the plain meaning of the description, and keep experimenting with departure methods there if the first attempt does not register. No single method is asserted here because the description names the place and the idea, not a procedure. The trophy unlocks when a departure registers as unscheduled.",
+   "steps": ["Travel to VCIA in free roam", "Depart by an unscheduled means", "Try another departure method if it does not register"]
   },
   {
    "id": 38,
    "name": "Challenging Tank",
    "description": "Kinda hot in these Rhinos.",
    "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, Rhinos named)",
+   "guide": "This trophy's official description is a joke about Rhinos, the tank name used in the series, so read it as a tank encounter trophy: get into or up against a Rhino when one appears and survive the encounter the description jokes about. Rhino appearances are tied to heavy wanted-level or military-style responses in the series' conventions, so a high-heat free-roam session is the practical setting to attempt it, framed here as method rather than a cited location. Keep a save before provoking heavy heat. The trophy unlocks when the Rhino encounter registers.",
+   "steps": ["Keep a save before provoking heavy heat", "Seek a Rhino encounter in free roam", "Complete the encounter the description points to"]
   },
   {
    "id": 39,
    "name": "Sneakthief",
    "description": "Rob a jewelry store without being detected.",
    "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, jewelry store and undetected stated)",
+   "guide": "Rob a jewelry store without being detected, the stealth condition stated plainly in the official description. Detection is the failure state, so approach quietly, avoid alerting anyone inside, and leave the same way; if you are detected, abandon the attempt and return later rather than finishing loudly, because a detected robbery cannot satisfy the description. Choose a quiet moment and keep the attempt short. The trophy unlocks when a robbery completes with detection never triggered.",
+   "steps": ["Enter a jewelry store quietly", "Rob it without alerting anyone", "Leave undetected; restart the attempt if spotted"]
   },
   {
    "id": 40,
    "name": "Maximum Withdrawal",
    "description": "Rob 5 Bank Vaults and escape.",
    "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
+   "kind": "activities",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, count 5 Bank Vaults and escape stated)",
+   "guide": "Rob 5 Bank Vaults and escape each time, for this silver, with both the count and the escape condition in the official description. A vault robbery only counts when you also get away, so plan the escape before starting each robbery rather than improvising under heat. Space the five robberies out across your playthrough to keep them manageable, and tick each successful vault-plus-escape in your own tally. The trophy unlocks on the fifth successful escape.",
+   "steps": ["Plan an escape route before each vault robbery", "Rob the vault and escape cleanly", "Repeat until 5 vaults are robbed with escapes"]
   },
   {
    "id": 41,
    "name": "A Classic Blitz Play",
    "description": "Rob an Armored Truck and escape.",
    "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, Armored Truck and escape stated)",
+   "guide": "Rob an Armored Truck and escape, as the official description requires. Only one truck is needed, so when one appears in free roam, commit to it: stop it, take its cargo, and focus immediately on losing the resulting heat, because the escape is part of the requirement, not an afterthought. If the attempt collapses, wait for the next truck rather than chasing a lost one across the map. The trophy unlocks when a robbery ends with a successful escape.",
+   "steps": ["Commit to an Armored Truck when one appears", "Rob it and take the cargo", "Escape the heat to complete the requirement"]
   },
   {
    "id": 42,
    "name": "The Goodtime State",
    "description": "Explore all of Leonida.",
    "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
+   "kind": "collectibles",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, Leonida named); starter kit guide line (52 areas)",
+   "guide": "Explore all of Leonida; the starter data records 52 areas to uncover. Exploration trophies reward coverage, so uncover map areas systematically, district by district, and let your collectible hunts (WAiNK locations, meditation spots, vehicles) double as exploration trips. Leave the final sweep for the mop-up stage, when travel is fastest and the remaining grey areas are easy to see. The trophy unlocks when the last unexplored area is visited.",
+   "steps": ["Uncover the map district by district", "Combine exploration with collectible hunts", "Sweep the last grey areas in mop-up"]
   },
   {
    "id": 43,
    "name": "Pest Control",
    "description": "Rob an Illegal Operation belonging to each gang.",
    "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
+   "kind": "activities",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, each gang stated); starter kit guide line (9 gangs)",
+   "guide": "Rob an Illegal Operation belonging to each gang; the starter data records 9 gangs. One operation per gang is the requirement, so keep a gang-by-gang tally and prioritise gangs you have not hit when a choice of targets appears. Repeating a favourite gang's operations does not advance this trophy. The trophy unlocks when the last unhit gang's operation has been robbed.",
+   "steps": ["Keep a tally of gangs already hit", "Rob one Illegal Operation per gang", "Finish the 9th gang to unlock"]
   },
   {
    "id": 44,
    "name": "In The Beginning…",
    "description": "Enjoy a cocktail with a view on Ocean Beach.",
    "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, Ocean Beach named, ellipsis as published)",
+   "guide": "Enjoy a cocktail with a view on Ocean Beach, the place named in the official description, keeping the published name above including its ellipsis. This is a moment trophy rather than a challenge: go to Ocean Beach, order or take the cocktail where the game offers it, and let the scene play out with the view the description mentions. If nothing registers, try interacting at the beach's drinking spots at a relaxed moment rather than during heat or a mission. The trophy unlocks when the cocktail moment completes.",
+   "steps": ["Travel to Ocean Beach in free roam", "Take a cocktail where it is offered", "Let the view moment play out"]
   },
   {
    "id": 45,
    "name": "Capital Offense",
    "description": "Smash your way out of a vehicle showroom in classic style.",
    "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, vehicle showroom stated)",
+   "guide": "Smash your way out of a vehicle showroom in classic style, following the official description's plain meaning: be inside a vehicle showroom, get into a vehicle, and drive out through the showroom rather than leaving on foot by a door. The style the description jokes about is the dramatic exit, so make the exit a drive-through smash and not a quiet walk-out. If an attempt does not register, try another showroom vehicle and exit. The trophy unlocks when the smash-out registers.",
+   "steps": ["Enter a vehicle showroom", "Get into a showroom vehicle", "Drive out through the showroom front"]
   },
   {
    "id": 46,
    "name": "Let’s Go Bowling",
    "description": "Follow-through at the Kolt & Associates' bowling alley.",
    "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
+   "kind": "activities",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, Kolt & Associates' bowling alley named, curly apostrophe as published)",
+   "guide": "Play bowling at the Kolt & Associates' bowling alley named in the official description, keeping the published name above with its curly apostrophe. Visit the alley in free roam and play its bowling activity through a proper follow-through, as the description's wording points to completing the bowling action itself rather than merely entering the building. Bowling also samples an activity type for Master of None. The trophy unlocks when the bowling at that named alley registers.",
+   "steps": ["Visit the Kolt & Associates' bowling alley", "Play a bowling game there", "Complete the follow-through action it asks for"]
   },
   {
    "id": 47,
    "name": "Personal Best",
    "description": "A partnership with mass appeal.",
    "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, partnership wording as published)",
+   "guide": "The official description for this trophy is deliberately cryptic, describing a partnership moment with mass appeal, so this guide does not invent a specific trigger and present it as fact. What follows from the list itself is that partnership is a recurring theme (see Hot Together and Retail Therapy, both partner trophies), so attempt partner activities together and in public, populated settings while you work those trophies, and watch for this one to unlock alongside them. If it has not unlocked by the mop-up stage, repeat partner activities in busy public places. Its unlock confirms the partnership moment has registered.",
+   "steps": ["Work the partner trophies Hot Together and Retail Therapy", "Do partner activities in busy public settings", "Re-check in mop-up if it has not unlocked"]
   },
   {
    "id": 48,
    "name": "Actions Speak Louder",
    "description": "Choices made (for better or worse).",
    "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
+   "kind": "missable",
+   "missable": true,
+   "missableNote": "Choice-linked trophy: make choices deliberately on a first playthrough and before finishing the story, since passed choices may not be offered again.",
+   "source": "PlayStation official trophy list (official description, choices wording as published); starter kit guide line (PSN tracks a count to 500)",
+   "guide": "Make choices, for better or worse, as the official description puts it; the starter data notes PlayStation tracks a count toward 500 for this trophy. Because choices belong to moments that pass, this guide flags it missable: engage with every choice the game offers during the story instead of skipping or defaulting through them, and keep making optional choices in free roam and strands as they arise. Volume plus attention is the method that follows from the description and its tracked count. The trophy unlocks when the tracked choice count is reached.",
+   "steps": ["Engage with every story choice offered", "Keep choosing in strands and free roam", "Continue until the tracked count is reached"]
   },
   {
    "id": 49,
    "name": "Bad Luck, I Guess",
    "description": "Second time's the charm.",
    "grade": "bronze",
-   "guide": "Succeed on a second try."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, second-try wording as published)",
+   "guide": "Succeed on a second try, following the official description's joke that the second time is the charm. Read plainly, this asks for an attempt that fails once and then succeeds on the immediate retry, so the natural places to earn it are repeatable activities in this list (races, challenges and range attempts) where failing and retrying is normal play. Do not hunt it deliberately early on; most players will trigger it incidentally while chasing medals and race wins. If it is still missing in mop-up, fail a quick repeatable attempt once and succeed on the retry. The trophy unlocks when the second-try success registers.",
+   "steps": ["Play repeatable activities normally", "Let a failed attempt be retried immediately", "Force it in mop-up: fail once, succeed on the retry"]
   },
   {
    "id": 50,
    "name": "The Truth Is Out There",
    "description": "What the hell just happened?",
    "grade": "bronze",
-   "guide": "Witness something strange."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, wording as published)",
+   "guide": "Witness something strange, which is all the official description (a startled question) actually confirms, so no specific event or location is claimed here as fact. Strange-event trophies in an open world are earned by exploring off the beaten path, and this list already sends you to all 52 areas of Leonida, 100 WAiNK locations and every meditation spot, which is thorough coverage of unusual places. Stay curious when something odd presents itself and investigate rather than driving past. The trophy unlocks when the strange event registers.",
+   "steps": ["Explore thoroughly for the Leonida-wide trophies", "Investigate anything odd instead of passing it", "It unlocks when the strange event registers"]
   },
   {
    "id": 51,
    "name": "Ten Pin",
    "description": "Bowl 'em over with a melee drive-by.",
    "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, melee drive-by stated)",
+   "guide": "Knock someone down with a melee drive-by, the action stated in the official description and the bowling joke in its name (see also Let's Go Bowling). Set it up in free roam: ride or drive past a pedestrian at close range and use the melee attack from the vehicle so the strike lands as a drive-by rather than on foot. Speed and distance are the variables to adjust if attempts miss, keeping the pass close and controlled. The trophy unlocks when a melee drive-by knocks someone over.",
+   "steps": ["Find a pedestrian in free roam", "Pass close in a vehicle", "Land a melee strike from the vehicle to bowl them over"]
   },
   {
    "id": 52,
    "name": "Dime on the Dollar",
    "description": "Earn $250,000 laundering Marked Bills through your contacts.",
    "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
+   "kind": "completion",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, $250,000 and Marked Bills through contacts stated)",
+   "guide": "Earn $250,000 by laundering Marked Bills through your contacts, with the amount, the bills and the contacts route all stated in the official description. This is a cumulative money trophy, so route every batch of Marked Bills you obtain through your contacts rather than spending or ignoring them, and keep a rough running total. It pairs with the robbery trophies in mop-up, since robberies are the play pattern that keeps cash flowing. The trophy unlocks when cumulative laundered earnings reach $250,000.",
+   "steps": ["Route Marked Bills through your contacts every time", "Keep a rough running total", "Continue until $250,000 has been laundered"]
   },
   {
    "id": 53,
    "name": "Treat Yo Self",
    "description": "Spend $100,000 across all shops.",
    "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
+   "kind": "completion",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, $100,000 across all shops stated)",
+   "guide": "Spend $100,000 across all shops, the cumulative spending total in the official description. Spread purchases across shops as the description says, buying what you actually need for other trophies (vehicles, properties and supplies) so the spending is never wasted. Money earned from robberies and laundering feeds this total, making it a natural mop-up companion to Dime on the Dollar. The trophy unlocks when lifetime shop spending reaches $100,000.",
+   "steps": ["Buy useful items across different shops", "Fund spending with robbery and laundering income", "Reach $100,000 total shop spending"]
   },
   {
    "id": 54,
    "name": "Little Boxes",
    "description": "Purchase all garage properties.",
    "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
+   "kind": "completion",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, all garage properties stated); starter kit guide line (8 garage properties)",
+   "guide": "Purchase all garage properties; the starter data records 8 of them. Buy garages as your income allows during the story rather than saving for all 8 at once, and let the robbery and laundering trophies fund the later, pricier ones. Owning garages also supports the vehicle trophies by giving your discoveries and registrations a home. The trophy unlocks when the eighth and final garage property is purchased.",
+   "steps": ["Buy garages progressively as income allows", "Fund later garages with robbery income", "Purchase the 8th garage to unlock"]
   },
   {
    "id": 55,
    "name": "On the Spot",
    "description": "Register 10 vehicles to the Scooter Bros app.",
    "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
+   "kind": "misc",
+   "missable": false,
+   "missableNote": "",
+   "source": "PlayStation official trophy list (official description, 10 vehicles and Scooter Bros app stated)",
+   "guide": "Register 10 vehicles to the Scooter Bros app, the count and the app both named in the official description. Register vehicles as you discover them for Whip It Good, so the two trophies progress together instead of needing a separate vehicle hunt later. Ten registrations is a small target that most players will pass during normal exploration. The trophy unlocks when the 10th vehicle is registered to the app.",
+   "steps": ["Register each newly discovered vehicle", "Pair progress with Whip It Good (100 vehicles)", "Reach 10 registrations to unlock"]
   }
  ]
 }

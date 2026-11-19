@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-checklist.jpg","path":"/","scene":"Checklist with official names/descriptions/grades, spoiler shield hiding unearned story trophies, progress summary (4/55, per-grade counts, missable secured), filters and the Strangers & Freaks cited guide open in the detail panel","viewport":{"height":800,"width":1280}},{"file":"2-guide-detail.jpg","path":"/","scene":"Trophy detail open for You WAiNKer! (silver, 100 locations) showing the full own-words guide, steps and cited sources beside the checklist","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","path":"/","scene":"Roadmap to the Platinum: staged order built from the official descriptions with counts, roadmap sources line, and MISSABLE flags on the story stage trophies","viewport":{"height":800,"width":1280}},{"file":"4-missable-filter.jpg","path":"/","scene":"Checklist filtered by kind = missable, showing only the 19 missable-flagged trophies with their flags and progress","viewport":{"height":800,"width":1280}}]

@@ -10,6 +10,9 @@
 // or JPEG screenshots of it in screenshots/ (the first by name is the cover; shots.json says which views this
 // starter's were taken of), and run it.
 //
+// Built entry: "Leonida Legend" — a full offline guide & tracker for all 55 trophies, with a cited guide per
+// trophy in app/data/trophies.json, a roadmap to the platinum in app/roadmap.js, kind/grade/search filters,
+// a spoiler shield for story trophies, and localStorage progress with export/import in app/app.js.
 // Serve it locally with `node serve.ts`, then open http://localhost:8080.
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts

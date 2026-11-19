@@ -3,23 +3,85 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<title>Leonida Legend — GTA VI Trophy Guide &amp; Tracker</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<header class="hero">
+  <div>
+    <h1>Leonida Legend</h1>
+    <p class="tagline">The offline GTA VI trophy guide &amp; tracker — all 55 PlayStation 5 trophies, cited guides, roadmap &amp; missable flags.</p>
+    <p class="sources-line">Facts: PlayStation official trophy list · Method references: GTA Wiki — GTA VI trophies · PowerPyx-style trophy roadmap conventions</p>
+  </div>
+  <div class="summary" id="summary" aria-live="polite">
+    <div class="big" id="progress-big">0 / 55</div>
+    <div id="progress-grades">platinum 0/1 · gold 0/2 · silver 0/6 · bronze 0/46</div>
+    <div id="progress-kinds"></div>
+    <div class="bar"><div id="bar-fill"></div></div>
+  </div>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
+
+<nav class="tabs" aria-label="Views">
+  <button id="tab-checklist" class="tab active" type="button">Checklist &amp; Guides</button>
+  <button id="tab-roadmap" class="tab" type="button">Roadmap to Platinum</button>
+</nav>
+
+<section id="view-checklist">
+  <div class="controls" id="filters">
+    <label>Search <input id="search" type="search" placeholder="name, description, guide…"></label>
+    <label>Kind
+      <select id="kind">
+        <option value="all">All kinds</option>
+        <option value="story">Story</option>
+        <option value="missable">Missable</option>
+        <option value="collectibles">Collectibles</option>
+        <option value="activities">Activities</option>
+        <option value="online">Online</option>
+        <option value="completion">Completion</option>
+        <option value="misc">Misc</option>
+      </select>
+    </label>
+    <label>Grade
+      <select id="grade">
+        <option value="all">All grades</option>
+        <option value="platinum">Platinum</option>
+        <option value="gold">Gold</option>
+        <option value="silver">Silver</option>
+        <option value="bronze">Bronze</option>
+      </select>
+    </label>
+    <label class="check"><input id="only-missable" type="checkbox"> Missable only</label>
+    <label class="check"><input id="spoiler" type="checkbox" checked> Spoiler shield: hide story trophies until earned</label>
+    <label class="check"><input id="hide-earned" type="checkbox"> Hide earned</label>
+    <button id="export" type="button">Export progress</button>
+    <label class="import-btn">Import progress <input id="import" type="file" accept="application/json"></label>
+    <span id="showing"></span>
+  </div>
+
+  <div class="layout">
+    <div class="list-wrap">
+      <table>
+        <thead><tr><th>✓</th><th>Trophy (official name &amp; description)</th><th>Grade</th><th>Kind</th><th>Flags</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+      <p id="empty" hidden>No trophies match the current filters. Note: this official list contains no online trophies, so the Online filter is intentionally empty.</p>
+    </div>
+    <aside id="detail" class="detail" aria-live="polite">
+      <p class="detail-hint">Select any trophy to open its full cited guide here.</p>
+    </aside>
+  </div>
+</section>
+
+<section id="view-roadmap" hidden>
+  <h2>Roadmap to the Platinum</h2>
+  <p class="roadmap-intro">Order built from the official descriptions: story chapters first, missable stranger strands interleaved <strong>before</strong> the finale, then completion, collectibles and activities mop-up, 100% completion, platinum last. Counts are as the descriptions state them: 250 stunts · 100 WAiNK spots · 100 vehicles · 52 areas · 50 challenges · 42 Shooting Range challenges · 20 races · 18 meditation spots · 14 drone locations · 3 card sets · 9 gangs · 8 strands · 8 garages · $250,000 laundering · $100,000 spending.</p>
+  <p class="roadmap-source" id="roadmap-source"></p>
+  <div id="stages"></div>
+</section>
+
+<footer>
+  <p>Progress is saved in your browser (localStorage) and can be exported / imported above. Fully offline: this app loads only its own files. No Rockstar artwork or logos — original design.</p>
+</footer>
 <script type="module" src="app.js"></script>
 </body>
 </html>
